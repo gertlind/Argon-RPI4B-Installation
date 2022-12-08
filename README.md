@@ -44,6 +44,11 @@ sudo rpi-eeprom-update -d -a
 
 #### Copy the Micro SD to the SSD drive with RPI-Clone
 
+### Install git
+```
+sudo apt-get install git
+```
+
 [https://github.com/billw2/rpi-clone](url)
 
 ```
